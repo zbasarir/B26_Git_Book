@@ -4,6 +4,6 @@ just for practice
 
 1- I learned how to add file as txt
 
-2- Also learned how to commit to add file into local repository
+2- Also learned how to commit the added file into local repository
 
 3- then learned how to push the file from local to remote.
