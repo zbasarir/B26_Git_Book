@@ -1,0 +1,11 @@
+
+
+so far we learned git flow for 
+
+commit to push
+
+and
+
+remote - local
+fetch is used just to see the changes on local from made in remote.
+pull/update
